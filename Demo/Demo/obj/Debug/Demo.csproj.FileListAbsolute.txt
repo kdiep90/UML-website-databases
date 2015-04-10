@@ -1,0 +1,6 @@
+c:\users\kdiep\documents\visual studio 2013\Projects\Demo\Demo\bin\Demo.dll.config
+c:\users\kdiep\documents\visual studio 2013\Projects\Demo\Demo\bin\Demo.dll
+c:\users\kdiep\documents\visual studio 2013\Projects\Demo\Demo\bin\Demo.pdb
+c:\users\kdiep\documents\visual studio 2013\Projects\Demo\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+c:\users\kdiep\documents\visual studio 2013\Projects\Demo\Demo\obj\Debug\Demo.dll
+c:\users\kdiep\documents\visual studio 2013\Projects\Demo\Demo\obj\Debug\Demo.pdb

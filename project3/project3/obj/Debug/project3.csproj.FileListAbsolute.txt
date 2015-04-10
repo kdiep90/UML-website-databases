@@ -1,0 +1,6 @@
+C:\Users\kdiep\Documents\Visual Studio 2013\Projects\project3\project3\bin\project3.dll.config
+C:\Users\kdiep\Documents\Visual Studio 2013\Projects\project3\project3\bin\project3.dll
+C:\Users\kdiep\Documents\Visual Studio 2013\Projects\project3\project3\bin\project3.pdb
+C:\Users\kdiep\Documents\Visual Studio 2013\Projects\project3\project3\obj\Debug\project3.csprojResolveAssemblyReference.cache
+C:\Users\kdiep\Documents\Visual Studio 2013\Projects\project3\project3\obj\Debug\project3.dll
+C:\Users\kdiep\Documents\Visual Studio 2013\Projects\project3\project3\obj\Debug\project3.pdb

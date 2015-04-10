@@ -1,0 +1,5 @@
+C:\Users\kdiep\Documents\Visual Studio 2013\Projects\Project2\Project2\bin\Project2.dll.config
+C:\Users\kdiep\Documents\Visual Studio 2013\Projects\Project2\Project2\bin\Project2.dll
+C:\Users\kdiep\Documents\Visual Studio 2013\Projects\Project2\Project2\bin\Project2.pdb
+C:\Users\kdiep\Documents\Visual Studio 2013\Projects\Project2\Project2\obj\Release\Project2.dll
+C:\Users\kdiep\Documents\Visual Studio 2013\Projects\Project2\Project2\obj\Release\Project2.pdb

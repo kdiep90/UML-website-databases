@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode title="Project2" roles="Administrators,HRAdministrators,Students">
+    <siteMapNode title="Main"  description="The main part of our site" roles="Administrators,HRAdministrators,Students">
+      <siteMapNode url="Default.aspx" title="Default"  description="The default landing page"/>
+    </siteMapNode>
+    <siteMapNode title="Admin"  description="The admin part of our site" roles="Administrators">
+      <siteMapNode url="Admin/newUser.aspx" title="Create User"  description="Create a new user."/>
+    </siteMapNode>
+    <siteMapNode title="HRAdmin"  description="The HR part of our site" roles="HRAdministrators">
+      <siteMapNode url="EmployeeData/employees.aspx" title="Users and Their Roles"  description="Find a user and their role."/>
+    </siteMapNode>
+  </siteMapNode>
+</siteMap>

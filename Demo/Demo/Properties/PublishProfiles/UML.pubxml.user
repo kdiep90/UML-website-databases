@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAqw0p/c7UfE6H8fqMLjbpzQAAAAACAAAAAAAQZgAAAAEAACAAAACGyquLltQdinIGcTGS6ElnnEmZLBtY6m/aDhM2erllvgAAAAAOgAAAAAIAACAAAAD7FzTHU/thttZcEDFOs6pGUafAX7aSENMZQ5IGl7sJWxAAAAB4pN0dZzUF7tGim81cTw38QAAAACp1k2GHxZ4XsKxgISJLNNJRyEpKREa/QFLF9DLUhSSYCnKxE8w2pa7x2xZHd5h7s9MdokTGj8qHmgGV0cvons8=</EncryptedPassword>
+    <_PublishTargetUrl>ftp://media.uml.edu/demo</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Demo.dll">
+      <publishTime>02/27/2015 23:13:12</publishTime>
+    </File>
+    <File Include="bin/Demo.pdb">
+      <publishTime>02/13/2015 01:14:06</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>02/27/2015 22:44:18</publishTime>
+    </File>
+    <File Include="Demo.Master">
+      <publishTime>02/27/2015 22:33:50</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>02/13/2015 00:32:53</publishTime>
+    </File>
+    <File Include="LocalTeam.aspx">
+      <publishTime>02/27/2015 22:45:28</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>02/27/2015 22:36:22</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

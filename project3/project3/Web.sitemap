@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode title="Project3" roles="Administrators,Red,Blue">
+    <siteMapNode title="Main"  description="The main part of our site" roles="Administrators,Red,Blue">
+      <siteMapNode url="Home.aspx" title="Home"  description="The default landing page"/>
+    </siteMapNode>
+    <siteMapNode title="Admin"  description="The admin part of our site" roles="Administrators">
+      <siteMapNode url="Admin/overview.aspx" title="Overview"  description="Overview of users"/>
+    </siteMapNode>
+    <siteMapNode title="Red Team"  description="Red Team" roles="Red">
+      <siteMapNode url="teamRed/membersRed.aspx" title="Red Overview"  description="Red team's info"/>
+    </siteMapNode>
+    <siteMapNode title="Blue Team"  description="Blue Team" roles="Blue">
+      <siteMapNode url="teamBlue/membersBlue.aspx" title="Blue Overview"  description="Blue team's info"/>
+    </siteMapNode>
+  </siteMapNode>
+</siteMap>

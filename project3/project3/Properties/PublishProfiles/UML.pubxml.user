@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAlPnvsSzbbkuhFHzjpy9ksgAAAAACAAAAAAAQZgAAAAEAACAAAADRNoEMD/eqGphaaUYmKWAhmu4GiAM0gWcQ87SVrfvnNwAAAAAOgAAAAAIAACAAAAAhRnE/bedqXGfYAtX21xwIul4pzFVTERIzovIdU0EIAxAAAAB7qmrG4McehPsnnZ95+TBKQAAAAMSWMLrHCwMW5/j2iLv4/8RQ2tEBcInQJLfjULJ19jzh37M7ApShx5EX0f4AsyO9CViYumMMkoWhC0YRsQdbGlM=</EncryptedPassword>
+    <_PublishTargetUrl>ftp://media.uml.edu/project3</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Admin/overview.aspx">
+      <publishTime>03/27/2015 21:40:30</publishTime>
+    </File>
+    <File Include="Admin/Web.config">
+      <publishTime>03/27/2015 18:09:55</publishTime>
+    </File>
+    <File Include="bin/project3.dll">
+      <publishTime>04/05/2015 21:22:28</publishTime>
+    </File>
+    <File Include="bin/project3.pdb">
+      <publishTime>03/27/2015 18:35:39</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>03/25/2015 19:31:32</publishTime>
+    </File>
+    <File Include="Home.aspx">
+      <publishTime>03/27/2015 21:53:27</publishTime>
+    </File>
+    <File Include="Logon.aspx">
+      <publishTime>03/27/2015 18:11:50</publishTime>
+    </File>
+    <File Include="Project3.Master">
+      <publishTime>03/27/2015 18:40:33</publishTime>
+    </File>
+    <File Include="teamBlue/membersBlue.aspx">
+      <publishTime>03/27/2015 21:55:01</publishTime>
+    </File>
+    <File Include="teamBlue/Web.config">
+      <publishTime>03/27/2015 18:10:15</publishTime>
+    </File>
+    <File Include="teamRed/membersRed.aspx">
+      <publishTime>04/05/2015 21:24:52</publishTime>
+    </File>
+    <File Include="teamRed/Web.config">
+      <publishTime>03/27/2015 18:10:30</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>03/27/2015 20:44:56</publishTime>
+    </File>
+    <File Include="Web.sitemap">
+      <publishTime>03/27/2015 18:30:27</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,5 @@
+C:\Users\kdiep\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\kdiep\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\kdiep\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\kdiep\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\obj\Release\WebApplication1.dll
+C:\Users\kdiep\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\obj\Release\WebApplication1.pdb

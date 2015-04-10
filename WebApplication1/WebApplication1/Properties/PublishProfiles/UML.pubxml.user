@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAqw0p/c7UfE6H8fqMLjbpzQAAAAACAAAAAAAQZgAAAAEAACAAAABkp6jfRlzaoZs0g8lTSgXBlmMUD5O90G3dWiJBkF5K7AAAAAAOgAAAAAIAACAAAAAs1uvxkZ1WdDS7P5a1KwMncQ+UNeQQFb3oUMgwwRvRThAAAADc79ePOR4o0cXdsrIV/a7/QAAAAIp2p6eFnB2Ru65uNNeWQvqw4C+b2jxUO/V+XU2UpDlPG8IeqNczF6Hd/LhEAQXRqyKMeRTxxLRz075zNaSS048=</EncryptedPassword>
+    <_PublishTargetUrl>ftp://media.uml.edu/project1</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/WebApplication1.dll">
+      <publishTime>02/28/2015 03:18:56</publishTime>
+    </File>
+    <File Include="bin/WebApplication1.pdb">
+      <publishTime>02/28/2015 03:15:30</publishTime>
+    </File>
+    <File Include="default.aspx">
+      <publishTime>02/28/2015 03:12:01</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>02/27/2015 13:22:14</publishTime>
+    </File>
+    <File Include="Project1.Master">
+      <publishTime>02/28/2015 00:05:09</publishTime>
+    </File>
+    <File Include="userAdmin.aspx">
+      <publishTime>02/28/2015 03:08:44</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>02/28/2015 03:20:13</publishTime>
+    </File>
+    <File Include="Web.sitemap">
+      <publishTime>02/28/2015 00:06:06</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
